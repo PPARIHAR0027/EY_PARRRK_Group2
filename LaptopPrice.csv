@@ -38,7 +38,7 @@ Lenovo,IdeaPad 120S-14IAP,Notebook,14.0,4,Windows 10,1.44,249.0,Standard,1366,76
 Acer,Aspire 3,Notebook,15.6,4,Linux,2.1,367.0,Standard,1366,768,No,No,No,Intel,2.7,Core i3 7130U,1024,0,HDD,No,Intel,HD Graphics 620
 Dell,Inspiron 5770,Notebook,17.3,8,Windows 10,2.8,979.0,Full HD,1920,1080,No,Yes,No,Intel,1.6,Core i5 8250U,128,1024,SSD,HDD,AMD,Radeon 530
 HP,250 G6,Notebook,15.6,4,Windows 10,1.86,488.69,Standard,1366,768,No,No,No,Intel,2.5,Core i5 7200U,1024,0,HDD,No,Intel,HD Graphics 620
-HP,ProBook 450,Notebook,15.6,8,Windows 10,2.1,879.0,Full HD,1920,1080,No,No,No,Intel,1.6,Core i5 8250U,256,0,SSD,No,Nvidia,GeForce 930MX 
+HP,ProBook 450,Notebook,15.6,8,Windows 10,2.1,879.0,Full HD,1920,1080,No,No,No,Intel,1.6,Core i5 8250U,256,0,SSD,No,Nvidia,GeForce 930MX
 Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Notebook,15.6,4,Linux,2.0,389.0,Full HD,1920,1080,No,No,No,Intel,2.0,Core i3 6006U,1024,0,HDD,No,Intel,HD Graphics 620
 Dell,Inspiron 7577,Gaming,15.6,16,Windows 10,2.65,1499.0,Full HD,1920,1080,No,Yes,No,Intel,2.8,Core i7 7700HQ,256,1024,SSD,HDD,Nvidia,GeForce GTX 1060
 Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Notebook,15.6,8,Linux,2.3,522.99,Standard,1366,768,No,No,No,Intel,2.5,Core i5 7200U,1024,0,HDD,No,Nvidia,GeForce 940MX
